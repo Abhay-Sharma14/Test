@@ -1,2 +1,2 @@
 # Test
-Learning git
+Learning git for test demonstration
